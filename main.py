@@ -1,6 +1,6 @@
 from decimal import *
 
-'''darlehen=input("Geben Sie die Darlehen ein: ")'''
+''' Initialize the variables '''
 darlehen = Decimal(0)
 zinssatz = Decimal(0)
 laufzeit = Decimal(0)
